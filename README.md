@@ -50,5 +50,5 @@
 <li>Sassla düzgün işləmə - 20 bal</li>
 </ul>
 
-<i><b>Deadline - 12.01.2019</b>-Uğurlar hər birinizə</i>
+<i><b>Deadline - 01.12.2019</b>-Uğurlar hər birinizə</i>
 
