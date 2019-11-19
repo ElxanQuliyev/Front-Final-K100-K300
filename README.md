@@ -41,12 +41,14 @@
   <li>https://mixmap.travelerwp.com/blog</li>
 </ol>
 
-/****************************************************/
+********************************************************
 <ul>
 <li>Githubla düzgün işləmək - 15 bal</li>
 <li>Responsivlik - 20 bal</li>
 <li>Pluginlər-dən maximum az istifadə -15 bal(maximum 2-dənə)</li>
 <li>Saytın tam təhvili -30 bal</li>
 <li>Sassla düzgün işləmə - 20 bal</li>
-
 </ul>
+
+<i><b>Deadline - 12.01.2019</b>
+
